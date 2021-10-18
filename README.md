@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @laminator101
-- 👀 I’m interested in anything modding for the wii
-- 🌱 I’m currently learning how to do things
-- 📫 You can reach me at @Lami#9699 on discord
+- Hi, I’m Lami
+- I’m interested in anything modding for the wii
+- I can be reached on discord @Lami#9699
